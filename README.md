@@ -2,11 +2,23 @@
 
 ###
 
-<h3 align="center">Web developer in the making, constantly learning and growing in the world of code.</h3>
+<h2 align="center">Web developer in the making, constantly learning and growing in the world of code.</h2>
 
 ###
 
-<h6 align="left">👩‍💻A Little Bit About Me<br><br>I am pursuing BE in Computer Engineering<br><br>- 🔭 I’m currently working on a Spotify Clone 🎵<br><br>🌱 I’m learning React, Node.js, and MongoDB to enhance my full-stack development skills.<br><br> 🌟 Fields of Interest<br>- Web Development (Frontend & Backend)<br>- DSA <br>- Python<br><br>💻 Competitive Coding<br><br>- Leetcode : My Leetcode Profile https://leetcode.com/u/LearnedWool/</h6>
+<h3 align="center">👩‍💻Let Me Introduce Myself</h3>
+
+###
+
+<h4 align="left">My name is M Durga Prasath </h4>
+
+###
+
+<h5 align="left">Currently residing in Navi Mumbai, Maharashtra, India <br><br> I am pursuing BE in Computer Engineering<br><br>- 🔭 I’m currently working on a Spotify Clone 🎵<br><br>🌱 I’m learning React, Node.js, and MongoDB to enhance my full-stack development skills.<br><br> 🌟 Fields of Interest<br>- Web Development (Frontend & Backend)<br>- DSA <br>- Python<br><br>💻 Competitive Coding<br><br>- Leetcode : My Leetcode Profile https://leetcode.com/u/LearnedWool/</h5>
+
+###
+
+<h3 align="center">🔗 Connect With Me</h3>
 
 ###
 
@@ -18,6 +30,10 @@
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
+
+###
+
+<h3 align="center">🛠️ Tools I've Used, Learned, and Am Currently Exploring</h3>
 
 ###
 
