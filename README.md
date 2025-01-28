@@ -14,7 +14,7 @@
 
 ###
 
-<h5 align="left">Currently residing in Navi Mumbai, Maharashtra, India <br><br> I am pursuing BE in Computer Engineering<br><br>- 🔭 I’m currently working on a Spotify Clone 🎵<br><br>🌱 I’m learning React, Node.js, and MongoDB to enhance my full-stack development skills.<br><br> 🌟 Fields of Interest<br>- Web Development (Frontend & Backend)<br>- DSA <br>- Python<br><br>💻 Competitive Coding<br><br>- Leetcode : My Leetcode Profile https://leetcode.com/u/LearnedWool/</h5>
+<h5 align="left">Currently residing in Navi Mumbai, Maharashtra, India <br><br> I am pursuing BE in Computer Engineering<br><br>- 🔭 I’m currently working on a EchoVerse - A Music WebApp 🎵<br><br>🌱 I’m learning React, Node.js, and MongoDB to enhance my full-stack development skills.<br><br> 🌟 Fields of Interest<br>- Web Development (Frontend & Backend)<br>- DSA <br>- Python<br><br>💻 Competitive Coding<br><br>- Leetcode : My Leetcode Profile https://leetcode.com/u/LearnedWool/</h5>
 
 ###
 
